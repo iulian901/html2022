@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#dreptunghi {
+    background-color: rgb(38, 0, 255);
+    height: 10em;
+    width: 15em;
+    
+}
+
+#cerc {
+    background-color: red;
+    height: 4em;
+    width: 4em;
+    border-radius: 50%;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
